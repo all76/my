@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941784144760",
+    "project_id": "myteethiraq",
+    "storage_bucket": "myteethiraq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941784144760:android:eb4e88e5abdb9c0cd6068d",
+        "android_client_info": {
+          "package_name": "iq1a2.myteethiraq_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941784144760-7mu8kvvp7bofl82qvs7c99psb1fp115o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHy_LCViAkthUE22Su9vyQXpgpkKPPwzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941784144760-7mu8kvvp7bofl82qvs7c99psb1fp115o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
