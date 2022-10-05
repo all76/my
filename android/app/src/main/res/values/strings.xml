@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MyTeethIraq</string>
+<string name="facebook_app_id">635689018217453</string>
+<string name="fb_login_protocol_scheme">fb635689018217453</string>
+<string name="facebook_client_token">0f743e82db69c50f3a50aa479e24ad8e</string>
+</resources>

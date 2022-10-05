@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>344357181016-viap842r8q75htt6boa7qe2ma7l80gtr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.344357181016-viap842r8q75htt6boa7qe2ma7l80gtr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAda_MgPZ9uNg4VwgR9w1AvbnPxhJ7wR6o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>344357181016</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.myTeethApp</string>
+	<key>PROJECT_ID</key>
+	<string>myteethiraq-7930a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myteethiraq-7930a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:344357181016:ios:880065b54b5f8e0a199c2d</string>
+</dict>
+</plist>
